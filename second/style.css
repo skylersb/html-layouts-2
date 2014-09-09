@@ -1,0 +1,74 @@
+
+.box {
+	background-color: gray;
+	position: relative;
+	padding:0 50px 250px 50px ;
+}
+
+h1 {
+	font-size: 350px;
+	text-align: center;
+	font-family: arial;
+	margin: 0 0 50px 0;
+}
+
+.button {
+	display: inline-block;
+	padding:25px 120px;
+	color: #fff;
+	border-radius: 4px;
+	display: inline-block;
+	
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-size: 72px;
+	font-family: arial;
+
+}
+
+.primary {
+	background: #c93a3a;
+	float: left;
+}
+
+.secondary {
+	background: #3ebbf9;
+	float: right;
+}
+.box2 {
+	background-color: gray;
+	position: relative;
+	padding: 0 50px 50px 50px ;
+	margin: 50px 0 20px 0;
+}
+
+.pic {
+	width: 300px;
+	height: 200px;
+	margin: 20px 150px 20px 450px;
+
+}
+
+p {
+	color: white;
+	font-size: 28px;
+
+}
+
+.box3 {
+	background-color: black;
+	position: relative;
+	padding:20px 100px;
+	margin: 50px 0px 10px 0px;
+}
+.search {
+	font-size: 36px;
+	font-family: arial;
+	color: white;
+	text-align: right;
+	padding: 0 150px 0 0;
+
+}
