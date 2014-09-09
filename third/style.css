@@ -1,0 +1,67 @@
+
+.box3 {
+	background-color: black;
+	position: relative;
+	padding:20px 0 20px 0;
+	margin: 0 90px 0 90px;
+}
+.search {
+	font-size: 36px;
+	font-family: arial;
+	color: white;
+	text-align: right;
+	padding: 0 150px 0 0;
+}
+
+p 	{
+	color: black;
+	font-size: 28px;
+
+}
+
+.bp {
+	text-align: center;
+
+}
+
+.box {
+	background-color: gray;
+	position: relative;
+	padding:0 50px 0px 50px ;
+	margin: 0 90px 0 90px;
+}
+
+h1 {
+	font-size: 96px;
+	text-align: left;
+	font-family: arial;
+	margin: 0 0 0 40px;
+	padding-top: 30px;
+}
+
+.box2 {
+	background-color: gray;
+	position: relative;
+	padding: 0 50px 10px 50px ;
+	margin: 20px 0 0px 0;
+}
+
+.pic {
+	width: 450px;
+	height: 400px;
+	float: right;
+	margin-left: 10px;
+	padding: 10px 0 0 10px;
+
+}
+
+.box4 {
+	background-color: black;
+	height: 200;
+	width:500 ;
+	position: relative;
+	padding: 50px 200px 50px 200px;
+	
+}
+
+
